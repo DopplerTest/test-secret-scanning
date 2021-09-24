@@ -1,4 +1,4 @@
 # test-secret-scanning
 For testing GitHub secret scanning
 
-Here's a token: dp.pt.G9hr1piAmB00tuYYV5tK7NE3J8GxWBRAJyPAsjghxg0
+Here's a token: dp.st.stg_tom.m4jHEXOrCnsIgXjfDbav9GMvPoR9zoc0Q3voXrumeWQ
