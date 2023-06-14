@@ -2,4 +2,4 @@
 For testing GitHub secret scanning
 
 Here's a token:
-dp.pt.VaxYZCYZodJYGkUVa39DhvosOHkZDj35vpDlEeVlRA9
+dp.pt.BXHk5wVw6xZxZHQvsX9wbavmSUwxmPIggZiHr6Qbwej
